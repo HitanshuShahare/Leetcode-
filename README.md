@@ -38,8 +38,8 @@ LeetCode-Solution/
 
 ## Progress
 - You can also view my [LeetCode profile](https://leetcode.com/u/Hitanshu_Shahare/).
-- Total problems solved: 184
-- Easy: 68
+- Total problems solved: 185
+- Easy: 69
 - Medium: 92
 - Hard: 24
 
