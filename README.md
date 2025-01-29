@@ -38,9 +38,9 @@ LeetCode-Solution/
 
 ## Progress
 - You can also view my [LeetCode profile](https://leetcode.com/u/Hitanshu_Shahare/).
-- Total problems solved: 206
+- Total problems solved: 207
 - Easy: 71
-- Medium: 108
+- Medium: 109
 - Hard: 27
 
 ## Contributing
