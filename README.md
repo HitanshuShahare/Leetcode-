@@ -38,10 +38,10 @@ LeetCode-Solution/
 
 ## Progress
 - You can also view my [LeetCode profile](https://leetcode.com/u/Hitanshu_Shahare/).
-- Total problems solved: 233
-- Easy: 76
-- Medium: 127
-- Hard: 30
+- Total problems solved: 240
+- Easy: 78
+- Medium: 131
+- Hard: 31
 
 ## Contributing
 
